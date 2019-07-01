@@ -1,0 +1,125 @@
+## instructions available at: https://asicseer.com/page/kb#writing-config
+
+global custompanel C40523bit049
+
+global poolname1 eu.ss.btc.com:1800
+global username1 CP40523
+global poolpass1 123
+global sendworker1 yes
+global poolname2 eu.ss.btc.com:443
+global username2 CP40523
+global poolpass2 123
+global sendworker2 yes
+global poolname3 eu.ss.btc.com:25
+global username3 CP40523
+global poolpass3 123
+global sendworker3 yes
+
+global asicboost yes
+global autotune yes
+global maxwatts 1325
+
+global autoupdate no
+global allowed yes
+global maxtemp 90
+global fanspeed 95
+global fansaver 65
+
+# global retune 1
+# global rebootasic 1
+# global resetasic 1
+# global panelpass gj83Nkgikg
+
+# group=rowc rebootasic 1
+# group=rowd allowed no
+
+## vlans (52 machines)
+vlan 10.0.59.141-147
+vlan 10.0.59.152-153
+vlan 10.0.59.156-156
+vlan 10.0.59.159-160
+vlan 10.0.59.192-192
+vlan 10.0.60.2-2
+vlan 10.0.60.4-4
+vlan 10.0.60.7-8
+vlan 10.0.60.12-12
+vlan 10.0.60.15-15
+vlan 10.0.60.17-17
+vlan 10.0.60.19-19
+vlan 10.0.60.21-23
+vlan 10.0.60.26-26
+vlan 10.0.60.28-28
+vlan 10.0.60.31-32
+vlan 10.0.60.36-36
+vlan 10.0.60.39-40
+vlan 10.0.60.45-46
+vlan 10.0.60.48-48
+vlan 10.0.60.51-51
+vlan 10.0.60.57-57
+vlan 10.0.60.62-64
+vlan 10.0.60.70-70
+vlan 10.0.60.72-74
+vlan 10.0.60.82-82
+vlan 10.0.60.84-85
+vlan 10.0.60.88-90
+vlan 10.0.60.94-94
+vlan 10.0.60.96-97
+
+## locations
+0cb854 location 0001
+9d7a26 location 0002
+27dc90 location 0003
+6eb2b2 location 0004
+916893 location 0005
+38a2db location 0006
+9724ec location 0007
+49ad88 location 0008
+4a37f0 location 0009
+4447ae location 0010
+d75436 location 0011
+ab9437 location 0012
+42cbf5 location 0013
+2d2b43 location 0014
+58b291 location 0015
+876e98 location 0016
+5bf4fd location 0017
+5fd0bb location 0018
+c0d1d0 location 0019
+8a564f location 0020
+41b74f location 0021
+45bf53 location 0022
+822d97 location 0023
+33488b location 0024
+77a941 location 0025
+d064ff location 0026
+b93951 location 0027
+b57c98 location 0028
+3430be location 0029
+043ca7 location 0030
+876afa location 0031
+e78e9a location 0032
+9f1bdd location 0033
+065491 location 0034
+9b8cfa location 0035
+613a81 location 0036
+c09684 location 0037
+3f93ef location 0038
+de1da0 location 0039
+06c771 location 0040
+db9bd2 location 0041
+92618c location 0042
+a57a15 location 0043
+c0aa77 location 0044
+6d37b8 location 0045
+10eadb location 0046
+ad5506 location 0047
+ae11f6 location 0048
+9aa139 location 0049
+c84687 location 0050
+3a5a63 location 0051
+5f2bce location 0052
+
+## tuning
+
+## asic password
+asicpass admin
