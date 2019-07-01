@@ -1,0 +1,59 @@
+## instructions available at: https://asicseer.com/page/kb#writing-config
+
+global custompanel C40526bit049
+
+global poolname1 eu.ss.btc.com:1800
+global username1 CP40526
+global poolpass1 123
+global sendworker1 yes
+global poolname2 eu.ss.btc.com:443
+global username2 CP40526
+global poolpass2 123
+global sendworker2 yes
+global poolname3 eu.ss.btc.com:25
+global username3 CP40526
+global poolpass3 123
+global sendworker3 yes
+
+global asicboost yes
+global autotune yes
+global maxwatts 1325
+
+global autoupdate no
+global allowed yes
+global maxtemp 90
+global fanspeed 95
+global fansaver 65
+
+# global retune 1
+# global rebootasic 1
+# global resetasic 1
+# global panelpass gj83Nkgikg
+
+# group=rowc rebootasic 1
+# group=rowd allowed no
+
+## vlans (10 machines)
+vlan 10.0.60.151-154
+vlan 10.0.61.3-3
+vlan 10.0.61.7-7
+vlan 10.0.61.11-11
+vlan 10.0.59.6-6
+vlan 10.0.59.10-11
+
+## locations
+3812f9 location 0001
+32c15c location 0002
+4f5b96 location 0003
+a6fc8d location 0004
+091799 location 0005
+5b4180 location 0006
+d5b013 location 0007
+6ad806 location 0008
+3d2252 location 0009
+fdb239 location 0010
+
+## tuning
+
+## asic password
+asicpass admin
