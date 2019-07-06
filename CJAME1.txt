@@ -46,6 +46,7 @@ vlan 10.0.59.88-88
 vlan 10.0.60.66-66
 vlan 10.0.60.157-157
 vlan 10.0.60.120-121
+vlan 10.0.58.154-154
 
 ## locations
 550b63 location CJAME0001
@@ -61,6 +62,7 @@ e82795 location CJAME0010
 a976d3 location CJAME0011
 3ae6f5 location CJAME0012
 9d7383 location CJAME0013
+9eab49 location CJAME0014
 
 
 ## tuning
