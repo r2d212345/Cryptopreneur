@@ -17,7 +17,7 @@ global sendworker3 yes
 
 global asicboost yes
 global autotune yes
-global maxwatts 1350
+global maxwatts 1325
 
 global autoupdate no
 global allowed yes
@@ -34,20 +34,93 @@ global fansaver 65
 # group=rowd allowed no
 
 ## vlans
-vlan 10.0.57.161-161
-vlan 10.0.58.3-3
-vlan 10.0.58.35-35
-vlan 10.0.58.55-55
-vlan 10.0.58.57-58
-vlan 10.0.58.112-112
-vlan 10.0.58.133-133
-vlan 10.0.59.53-53
-vlan 10.0.59.88-88
-vlan 10.0.60.66-66
-vlan 10.0.60.157-157
-vlan 10.0.60.120-121
-vlan 10.0.58.154-154
-vlan 10.0.60.159-159
+# vlan 10.0.57.161-161
+# vlan 10.0.58.3-3
+# vlan 10.0.58.35-35
+# vlan 10.0.58.55-55
+# vlan 10.0.58.57-58
+# vlan 10.0.58.112-112
+# vlan 10.0.58.133-133
+# vlan 10.0.59.53-53
+# vlan 10.0.59.88-88
+# vlan 10.0.60.66-66
+# vlan 10.0.60.157-157
+# vlan 10.0.60.120-121
+# vlan 10.0.58.154-154
+# vlan 10.0.60.159-159
+vlan 10.0.61.19-19
+vlan 10.0.61.20-20
+vlan 10.0.61.25-25
+vlan 10.0.61.27-27
+vlan 10.0.61.28-28
+vlan 10.0.61.29-29
+vlan 10.0.61.30-30
+vlan 10.0.61.34-34
+vlan 10.0.61.36-36
+vlan 10.0.61.37-37
+vlan 10.0.61.39-39
+vlan 10.0.61.40-40
+vlan 10.0.61.41-41
+vlan 10.0.61.42-42
+vlan 10.0.61.43-43
+vlan 10.0.61.46-46
+vlan 10.0.61.48-48
+vlan 10.0.61.49-49
+vlan 10.0.61.50-50
+vlan 10.0.61.51-51
+vlan 10.0.61.54-54
+vlan 10.0.61.62-62
+vlan 10.0.61.66-66
+vlan 10.0.61.68-68
+vlan 10.0.61.70-70
+vlan 10.0.61.71-71
+vlan 10.0.61.73-73
+vlan 10.0.61.74-74
+vlan 10.0.61.76-76
+vlan 10.0.61.78-78
+vlan 10.0.61.79-79
+vlan 10.0.61.81-81
+vlan 10.0.61.82-82
+vlan 10.0.61.83-83
+vlan 10.0.61.85-85
+vlan 10.0.61.87-87
+vlan 10.0.61.89-89
+vlan 10.0.61.91-91
+vlan 10.0.61.96-96
+vlan 10.0.61.97-97
+vlan 10.0.61.98-98
+vlan 10.0.61.99-99
+vlan 10.0.61.100-100
+vlan 10.0.61.101-101
+vlan 10.0.61.102-102
+vlan 10.0.61.103-103
+vlan 10.0.61.104-104
+vlan 10.0.61.107-107
+vlan 10.0.61.110-110
+vlan 10.0.61.113-113
+vlan 10.0.61.114-114
+vlan 10.0.61.116-116
+vlan 10.0.61.117-117
+vlan 10.0.61.121-121
+vlan 10.0.61.122-122
+vlan 10.0.61.123-123
+vlan 10.0.61.124-124
+vlan 10.0.61.125-125
+vlan 10.0.61.126-126
+vlan 10.0.61.127-127
+vlan 10.0.61.128-128
+vlan 10.0.61.131-131
+vlan 10.0.61.136-136
+vlan 10.0.61.139-139
+vlan 10.0.61.140-140
+vlan 10.0.61.146-146
+vlan 10.0.61.148-148
+vlan 10.0.61.149-149
+vlan 10.0.61.151-151
+vlan 10.0.61.152-152
+vlan 10.0.61.153-153
+vlan 10.0.61.159-159
+vlan 10.0.62.19-19
 
 ## locations
 550b63 location CJAME0001
@@ -65,21 +138,81 @@ a976d3 location CJAME0011
 9d7383 location CJAME0013
 9eab49 location CJAME0014
 9c64d4 location CJAME0015
-
+db20c6 location CJAME0016
+5dd689 location CJAME0017
+a13f47 location CJAME0018
+b4039e location CJAME0019
+931e66 location CJAME0020
+9f7bf1 location CJAME0021
+b1e369 location CJAME0022
+c4c801 location CJAME0023
+2d21b9 location CJAME0024
+5b64f1 location CJAME0025
+a43607 location CJAME0026
+a1e51e location CJAME0027
+527e85 location CJAME0028
+7b8d08 location CJAME0029
+290d45 location CJAME0030
+1de177 location CJAME0031
+448ccd location CJAME0032
+a484b8 location CJAME0033
+92be3e location CJAME0034
+57591e location CJAME0035
+3fa514 location CJAME0036
+ef6de1 location CJAME0037
+85332c location CJAME0038
+1f4c9e location CJAME0039
+ebdd42 location CJAME0040
+6306f6 location CJAME0041
+9f81be location CJAME0042
+5af10d location CJAME0043
+d2eabd location CJAME0044
+9e2df5 location CJAME0045
+e76055 location CJAME0046
+3e1e9a location CJAME0047
+7647eb location CJAME0048
+b98f42 location CJAME0049
+a45573 location CJAME0050
+75bbae location CJAME0051
+389f09 location CJAME0052
+59da1a location CJAME0053
+ab47ef location CJAME0054
+4ea862 location CJAME0055
+e81797 location CJAME0056
+a8b013 location CJAME0057
+78b6fa location CJAME0058
+c9ee5f location CJAME0059
+38b416 location CJAME0060
+e5eb65 location CJAME0061
+177af9 location CJAME0062
+c8c200 location CJAME0063
+67f2e3 location CJAME0064
+c46dfb location CJAME0065
+a04539 location CJAME0066
+c5b070 location CJAME0067
+62cc5e location CJAME0068
+dcebd6 location CJAME0069
+f7b757 location CJAME0070
+5b5575 location CJAME0071
+998c4a location CJAME0072
+aaf4a2 location CJAME0073
+5ee953 location CJAME0074
+ceb9c2 location CJAME0075
+da25b6 location CJAME0076
+58df4f location CJAME0077
+6ebf46 location CJAME0078
+681b12 location CJAME0079
+12dfa3 location CJAME0080
+f6a0d2 location CJAME0081
+db2b04 location CJAME0082
+170545 location CJAME0083
+b73fb2 location CJAME0084
+24b794 location CJAME0085
+e8da52 location CJAME0086
+022072 location CJAME0087
+d0fc49 location CJAME0088
 
 ## tuning
-550b63 maxwatts 1350
-fa71b6 maxwatts 1350
-de91a0 maxwatts 1350
-be35a4 maxwatts 1350
-bf5d9e maxwatts 1350
-14ccc9 maxwatts 1350
-e45e37 maxwatts 1350
-2ecd51 maxwatts 1350
-1d5db9 maxwatts 1350
-e82795 maxwatts 1350
-a976d3 maxwatts 1350
-3ae6f5 maxwatts 1350
 
 ## asic password
 asicpass admin
