@@ -22,7 +22,7 @@ global maxwatts 1325
 global autoupdate no
 global allowed yes
 global maxtemp 90
-global fanspeed 95
+global fanspeed 100
 global fansaver 65
 
 # global retune 1
@@ -34,12 +34,86 @@ global fansaver 65
 # group=rowd allowed no
 
 ## vlans (10 machines)
-vlan 10.0.60.151-154
-vlan 10.0.61.3-3
-vlan 10.0.61.7-7
-vlan 10.0.61.11-11
-vlan 10.0.59.6-6
-vlan 10.0.59.10-11
+# vlan 10.0.60.151-154
+# vlan 10.0.61.3-3
+# vlan 10.0.61.7-7
+# vlan 10.0.61.11-11
+# vlan 10.0.59.6-6
+# vlan 10.0.59.10-11
+vlan 10.0.62.29-29
+vlan 10.0.62.31-31
+vlan 10.0.62.54-54
+vlan 10.0.62.55-55
+vlan 10.0.62.56-56
+vlan 10.0.62.57-57
+vlan 10.0.62.58-58
+vlan 10.0.62.59-59
+vlan 10.0.62.61-61
+vlan 10.0.62.62-62
+vlan 10.0.62.63-63
+vlan 10.0.62.65-65
+vlan 10.0.62.79-79
+vlan 10.0.62.80-80
+vlan 10.0.62.87-87
+vlan 10.0.62.88-88
+vlan 10.0.62.89-89
+vlan 10.0.62.90-90
+vlan 10.0.62.92-92
+vlan 10.0.62.93-93
+vlan 10.0.62.96-96
+vlan 10.0.62.97-97
+vlan 10.0.62.98-98
+vlan 10.0.62.99-99
+vlan 10.0.62.100-100
+vlan 10.0.62.105-105
+vlan 10.0.62.106-106
+vlan 10.0.62.107-107
+vlan 10.0.62.109-109
+vlan 10.0.62.113-113
+vlan 10.0.62.114-114
+vlan 10.0.62.116-116
+vlan 10.0.62.119-119
+vlan 10.0.62.120-120
+vlan 10.0.62.121-121
+vlan 10.0.62.127-127
+vlan 10.0.62.128-128
+vlan 10.0.62.129-129
+vlan 10.0.62.130-130
+vlan 10.0.62.132-132
+vlan 10.0.62.133-133
+vlan 10.0.62.135-135
+vlan 10.0.62.137-137
+vlan 10.0.62.139-139
+vlan 10.0.62.140-140
+vlan 10.0.62.141-141
+vlan 10.0.62.142-142
+vlan 10.0.62.143-143
+vlan 10.0.62.144-144
+vlan 10.0.62.145-145
+vlan 10.0.62.148-148
+vlan 10.0.62.149-149
+vlan 10.0.62.150-150
+vlan 10.0.62.151-151
+vlan 10.0.62.152-152
+vlan 10.0.62.155-155
+vlan 10.0.62.156-156
+vlan 10.0.63.1-1
+vlan 10.0.63.4-4
+vlan 10.0.63.5-5
+vlan 10.0.63.6-6
+vlan 10.0.63.7-7
+vlan 10.0.63.8-8
+vlan 10.0.63.11-11
+vlan 10.0.63.12-12
+vlan 10.0.63.13-13
+vlan 10.0.63.14-14
+vlan 10.0.63.18-18
+vlan 10.0.63.19-19
+vlan 10.0.63.25-25
+vlan 10.0.63.26-26
+vlan 10.0.63.27-27
+vlan 10.0.63.28-28
+
 
 ## locations
 3812f9 location 0001
@@ -52,6 +126,79 @@ d5b013 location 0007
 6ad806 location 0008
 3d2252 location 0009
 fdb239 location 0010
+03ee8e location 0011
+0735b0 location 0012
+621b00 location 0013
+1c8b88 location 0014
+965250 location 0015
+be8567 location 0016
+46d9bd location 0017
+a2e43b location 0018
+e490c1 location 0019
+4b97c1 location 0020
+1dbb41 location 0021
+24c735 location 0022
+677a7d location 0023
+242283 location 0024
+a82ce7 location 0025
+3b1a36 location 0026
+12ca54 location 0027
+d60e3c location 0028
+d5de9e location 0029
+e56cd3 location 0030
+4a6f13 location 0031
+c6e922 location 0032
+a759be location 0033
+79e2ea location 0034
+1a3c16 location 0035
+0740da location 0036
+427276 location 0037
+4dc4f1 location 0038
+c4c92f location 0039
+2f9a0b location 0040
+f8e794 location 0041
+7c9430 location 0042
+1faa81 location 0043
+055faf location 0044
+1720f3 location 0045
+ab6e7b location 0046
+9bd94f location 0047
+eefeb1 location 0048
+dc83d8 location 0049
+319c01 location 0050
+082c5c location 0051
+c28889 location 0052
+b1914b location 0053
+599d99 location 0054
+d2e4d6 location 0055
+96a470 location 0056
+b8d362 location 0057
+a018a4 location 0058
+6017b2 location 0059
+7c13b1 location 0060
+6268aa location 0061
+423257 location 0062
+b18d0c location 0063
+33ba5e location 0064
+c5f63a location 0065
+06a09f location 0066
+c1a654 location 0067
+f7aecd location 0068
+e06fec location 0069
+952220 location 0070
+fad216 location 0071
+d7a370 location 0072
+8c6846 location 0073
+39e6c4 location 0074
+5868c9 location 0075
+efeb44 location 0076
+83e89f location 0077
+c7d26d location 0078
+8b483b location 0079
+294ca8 location 0080
+ce8642 location 0081
+439c15 location 0082
+ce8824 location 0083
 
 ## tuning
 
