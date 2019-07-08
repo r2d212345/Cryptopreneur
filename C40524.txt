@@ -52,6 +52,13 @@ bef7dd location 0009
 57bfcd location 0010
 
 ## tuning
+#bad fan overheat
+22e69d maxwatts 1225 # 10.0.60.109
+bef7dd maxwatts 1225 # 10.0.60.124
+
+22e69d rebootasic 1562571837 # 10.0.60.109
+bef7dd rebootasic 1562571837 # 10.0.60.124
+
 
 ## asic password
 asicpass admin
