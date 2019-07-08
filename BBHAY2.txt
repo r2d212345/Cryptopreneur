@@ -638,6 +638,8 @@ bf90a6 location BBHAY0398
 935b5a location BBHAY0403
 
 ## tuning
+#Bad Fan 1st BATCH
+19b781 maxwatts 1000
 
 ## asic password
 asicpass admin
