@@ -211,7 +211,7 @@ a57a15 location BBHAY0103
 6ad806 maxwatts 1500
 3d2252 maxwatts 1500
 fdb239 maxwatts 1500
-b96448 maxwatts 1000
+b96448 maxwatts 900
 # 2nd BATCH
 876e98 retune 1
 
