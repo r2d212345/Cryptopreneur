@@ -121,12 +121,11 @@ c84687 location 0050
 
 ## tuning
 #bad fan overheat
-6eb2b2 maxwatts 1225 # 10.0.59.144
+6eb2b2 maxwatts 1000 # 10.0.59.144
 c84687 maxwatts 1225 # 10.0.60.94
-5f2bce maxwatts 1225 # 10.0.60.97
+5f2bce maxwatts 1000 # 10.0.60.97
 
 6eb2b2 rebootasic 1562571775 # 10.0.59.144
-c84687 rebootasic 1562571775 # 10.0.60.94
 5f2bce rebootasic 1562571775 # 10.0.60.97
 
 
