@@ -640,16 +640,10 @@ bf90a6 location BBHAY0398
 ## tuning
 #Bad Fan 1st BATCH
 19b781 maxwatts 1000
-ae0bc3 maxwatts 1000
-daa5c3 maxwatts 1000
 a9f649 maxwatts 1000
-ca1218 maxwatts 1000
 df8e12 maxwatts 1000
 2ba7e1 maxwatts 1225
 616ea8 maxwatts 1225
-
-2ba7e1 rebootasic 1562568746 # 10.0.63.103
-616ea8 rebootasic 1562568746 # 10.0.64.53
 
 
 ## asic password
