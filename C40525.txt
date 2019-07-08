@@ -55,6 +55,10 @@ d699e4 location 0007
 64fdd8 location 0010
 
 ## tuning
+#bad fan overheat
+87d77d maxwatts 1225 # 10.0.60.133
+
+87d77d rebootasic 1562571902 # 10.0.60.133
 
 ## asic password
 asicpass admin
