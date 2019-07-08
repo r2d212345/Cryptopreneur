@@ -120,6 +120,15 @@ c84687 location 0050
 5f2bce location 0052
 
 ## tuning
+#bad fan overheat
+6eb2b2 maxwatts 1225 # 10.0.59.144
+c84687 maxwatts 1225 # 10.0.60.94
+5f2bce maxwatts 1225 # 10.0.60.97
+
+6eb2b2 rebootasic 1562571775 # 10.0.59.144
+c84687 rebootasic 1562571775 # 10.0.60.94
+5f2bce rebootasic 1562571775 # 10.0.60.97
+
 
 ## asic password
 asicpass admin
