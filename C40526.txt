@@ -201,6 +201,19 @@ ce8642 location 0081
 ce8824 location 0083
 
 ## tuning
+#bad fans
+c1a654 maxwatts 1225 # 10.0.62.156
+294ca8 maxwatts 1225 # 10.0.63.25
+a82ce7 maxwatts 1225 # 10.0.62.87
+4a6f13 maxwatts 1225 # 10.0.62.96
+d7a370 maxwatts 1225 # 10.0.63.7
+
+c1a654 rebootasic 1562570590 # 10.0.62.156
+294ca8 rebootasic 1562570590 # 10.0.63.25
+a82ce7 rebootasic 1562570590 # 10.0.62.87
+4a6f13 rebootasic 1562570590 # 10.0.62.96
+d7a370 rebootasic 1562570590 # 10.0.63.7
+
 
 ## asic password
 asicpass admin
