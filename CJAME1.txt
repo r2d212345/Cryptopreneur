@@ -243,6 +243,29 @@ e513cb location CJAME0102
 4b2265 location CJAME0103
 
 ## tuning
+#Bad Fans
+9d7383 maxwatts 1000
+550b63 maxwatts 1000
+c4c801 maxwatts 1000
+ebdd42 maxwatts 1000
+1d7ef6 maxwatts 1000
+e76055 maxwatts 1000
+a13f47 maxwatts 1000
+3ae6f5 maxwatts 1000
+2ecd51 maxwatts 1000
+92be3e maxwatts 1000
+9c64d4 maxwatts 1000
 
+9d7383 rebootasic 1562569266 # 10.0.60.120
+550b63 rebootasic 1562569266 # 10.0.57.161
+c4c801 rebootasic 1562569266 # 10.0.61.34
+ebdd42 rebootasic 1562569266 # 10.0.61.70
+1d7ef6 rebootasic 1562569266 # 10.0.63.50
+e76055 rebootasic 1562569266 # 10.0.61.79
+a13f47 rebootasic 1562569266 # 10.0.61.25
+3ae6f5 rebootasic 1562569266 # 10.0.60.157
+2ecd51 rebootasic 1562569266 # 10.0.58.133
+92be3e rebootasic 1562569266 # 10.0.61.50
+9c64d4 rebootasic 1562569266 # 10.0.60.159
 ## asic password
 asicpass admin
