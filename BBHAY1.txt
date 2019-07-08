@@ -103,6 +103,7 @@ vlan 10.0.60.45
 6ad806 location BBHAY0001
 3d2252 location BBHAY0002
 fdb239 location BBHAY0003
+b96448 location BBHAY0060
 # 2nd BATCH
 1f613d location BBHAY0004
 13ac85 location BBHAY0005
@@ -160,7 +161,6 @@ b57c98 location BBHAY0049
 c09684 location BBHAY0057
 3f93ef location BBHAY0058
 de1da0 location BBHAY0059
-b96448 location BBHAY0060
 06c771 location BBHAY0061
 db9bd2 location BBHAY0062
 92618c location BBHAY0063
@@ -211,6 +211,7 @@ a57a15 location BBHAY0103
 6ad806 maxwatts 1500
 3d2252 maxwatts 1500
 fdb239 maxwatts 1500
+b96448 maxwatts 1000
 # 2nd BATCH
 876e98 retune 1
 
