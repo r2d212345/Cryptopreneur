@@ -649,17 +649,10 @@ ae0bc3 maxwatts 1100
 ca1218 maxwatts 1325 # 10.0.64.124
 64fe5e maxwatts 1325 # 10.0.65.16
 
-528df3 rebootasic 1562606859 # 10.0.63.67 bbhay0267
-d710e7 rebootasic 1562606859 # 10.0.63.69 bbhay0268
-0beffe rebootasic 1562606859 # 10.0.63.78 bbhay0272
-b8542a rebootasic 1562606859 # 10.0.63.111 bbhay0294
-7357bc rebootasic 1562606859 # 10.0.63.161 bbhay0314
-a78199 rebootasic 1562606859 # 10.0.64.2 bbhay0316
-3aaaa4 rebootasic 1562606859 # 10.0.64.57 bbhay0344
-84b738 rebootasic 1562606859 # 10.0.64.147 bbhay0384
-b5c8fc rebootasic 1562606859 # 10.0.64.149 bbhay0386
-9bf7ff rebootasic 1562606859 # 10.0.65.6 bbhay0395
-
+ae0bc3 rebootasic 1562660246 # 10.0.63.87 bbhay0278
+a9f649 rebootasic 1562660246 # 10.0.63.97 bbhay0286
+daa5c3 rebootasic 1562660246 # 10.0.64.38 bbhay0330
+5a29b1 rebootasic 1562660246 # 10.0.64.130 bbhay0377
 
 ## asic password
 asicpass admin
