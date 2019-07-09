@@ -640,12 +640,12 @@ bf90a6 location BBHAY0398
 ## tuning
 #Bad Fan 1st BATCH
 19b781 maxwatts 1000
-a9f649 maxwatts 1325
+a9f649 maxwatts 1100
 df8e12 maxwatts 1000
 2ba7e1 maxwatts 1325
 616ea8 maxwatts 1325
-daa5c3 maxwatts 1325
-ae0bc3 maxwatts 1325
+daa5c3 maxwatts 1100
+ae0bc3 maxwatts 1100
 ca1218 maxwatts 1325 # 10.0.64.124
 64fe5e maxwatts 1325 # 10.0.65.16
 
