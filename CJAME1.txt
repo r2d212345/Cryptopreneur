@@ -256,7 +256,8 @@ e76055 maxwatts 1000
 2ecd51 maxwatts 800 # 10.0.58.133
 a13f47 maxwatts 900 # 10.0.61.25
 
-2ecd51 rebootasic 1562571334 # 10.0.58.133
+2ecd51 rebootasic 1562686127 # 10.0.58.133 cjame0008
+9eab49 rebootasic 1562686127 # 10.0.58.154 cjame0014
 
 
 ## asic password
