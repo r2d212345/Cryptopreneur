@@ -253,8 +253,11 @@ e76055 maxwatts 1000
 3ae6f5 maxwatts 1000
 92be3e maxwatts 1000
 9c64d4 maxwatts 1000
-2ecd51 maxwatts 800 # 10.0.58.133
+2ecd51 maxwatts 700 # 10.0.58.133
 a13f47 maxwatts 900 # 10.0.61.25
+9eab49 maxwatts 1225 # 10.0.58.154
+5dd689 maxwatts 1225 # 10.0.61.20
+022072 maxwatts 1225 # 10.0.61.159
 
 ab47ef rebootasic 1562738855 # 10.0.61.96 cjame0054
 5dd689 rebootasic 1562738855 # 10.0.61.20 cjame0017
