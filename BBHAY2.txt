@@ -511,12 +511,12 @@ d5dd04 location BBHAY0260
 7e1b58 location BBHAY0262
 e513cb location BBHAY0263
 4b2265 location BBHAY0264
-#d3611d location BBHAY0265
-#410e10 location BBHAY0266
+d3611d location BBHAY0265
+410e10 location BBHAY0266
 528df3 location BBHAY0267
 d710e7 location BBHAY0268
 274432 location BBHAY0269
-#8cb7f6 location BBHAY0270
+8cb7f6 location BBHAY0270
 5f24f6 location BBHAY0271
 0beffe location BBHAY0272
 ceb6d3 location BBHAY0273
