@@ -100,7 +100,7 @@ vlan 10.0.60.45
 
 ## locations
 # 1st BATCH
-b96448 username1 c40527
+b96448 username1 c40528
 6ad806 location BBHAY0001
 3d2252 location BBHAY0002
 fdb239 location BBHAY0003
