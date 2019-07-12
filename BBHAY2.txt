@@ -336,6 +336,11 @@ vlan 10.0.65.18-18
 vlan 10.0.65.19-19
 
 ## locations
+
+#shawns Miners
+410e10 username1 c40528
+
+
 db20c6 location BBHAY0104
 5dd689 location BBHAY0105
 a13f47 location BBHAY0106
