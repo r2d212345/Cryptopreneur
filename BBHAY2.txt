@@ -338,7 +338,7 @@ vlan 10.0.65.19-19
 ## locations
 
 #shawns Miners
-410e10 username1 c40528
+410e10 username3 c40528
 d3611d username2 c40528
 
 
