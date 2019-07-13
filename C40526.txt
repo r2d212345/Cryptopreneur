@@ -209,7 +209,7 @@ a82ce7 maxwatts 1225 # 10.0.62.87
 d7a370 maxwatts 1225 # 10.0.63.7
 a759be maxwatts 1000
 
-
+a759be rebootasic 1563041509 # 10.0.62.98 0033
 
 ## asic password
 asicpass admin
