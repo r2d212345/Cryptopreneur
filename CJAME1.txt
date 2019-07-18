@@ -259,9 +259,7 @@ a13f47 maxwatts 900 # 10.0.61.25
 5dd689 maxwatts 1225 # 10.0.61.20
 022072 maxwatts 1225 # 10.0.61.159
 
-2ecd51 rebootasic 1563406842 # 10.0.58.133 cjame0008
-d2eabd rebootasic 1563406842 # 10.0.61.76 cjame0044
-ceb9c2 rebootasic 1563406842 # 10.0.61.127 cjame0075
+ceb9c2 rebootasic 1563463381 # 10.0.61.127 cjame0075
 
 ## asic password
 asicpass admin
