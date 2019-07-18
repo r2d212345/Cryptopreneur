@@ -712,9 +712,10 @@ ca1218 maxwatts 1325 # 10.0.64.124
 3aaaa4 maxwatts 1225 # 10.0.64.57
 956bc8 maxwatts 1225 # 10.0.63.104
 67b65e maxwatts 1225 # 10.0.64.50
-410e10 maxwatts 1000 #testing
+410e10 maxwatts 500 #testing
 
-410e10 rebootasic 1563486259 # 10.0.63.63 bbhay0266
+
+
 
 ## asic password
 asicpass admin
