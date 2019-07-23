@@ -337,6 +337,27 @@ vlan 10.0.65.19-19
 
 ## locations
 
+#shakti miners(19)
+546631 username1 c40529
+df6745 username2 c40529
+2ba7e1 username3 c40529
+956bc8 username1 c40529
+89c116 username2 c40529
+540a7e username3 c40529
+b8542a username1 c40529
+3a76d9 username2 c40529
+a1aa21 username3 c40529
+b70abf username1 c40529
+2aa319 username2 c40529
+d22096 username3 c40529
+e97d51 username1 c40529
+02af8f username2 c40529
+6ccd23 username3 c40529
+19d5b1 username1 c40529
+e96240 username2 c40529
+25d9fe username3 c40529
+817b9d username1 c40529
+
 #shawns Miners
 410e10 username1 c40528
 410e10 username2 c40528
@@ -599,7 +620,7 @@ e97d51 location BBHAY0300
 19d5b1 location BBHAY0303
 e96240 location BBHAY0304
 25d9fe location BBHAY0305
-817b9d location BBHAY0306
+817b9d location BBHAY0306 #shakti last miner(19total)
 b03771 location BBHAY0307
 addc57 location BBHAY0308
 349ab3 location BBHAY0309
