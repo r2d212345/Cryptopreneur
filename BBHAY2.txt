@@ -723,9 +723,9 @@ bf90a6 location BBHAY0398
 #Bad Fan 1st BATCH
 88f593 maxwatts 1225 # 10.0.64.93
 e96240 maxwatts 1125 # 10.0.63.125
-e04134 maxwatts 1125 # 10.0.63.149
+e04134 maxwatts 1000 # 10.0.63.149
 67b65e maxwatts 1025 # 10.0.64.50
-a904d1 maxwatts 1225 # 10.0.64.79
+a904d1 maxwatts 1000 # 10.0.64.79
 ca3c40 maxwatts 1225 # 10.0.63.95
 b96a71 maxwatts 1225 # 10.0.64.39
 0e4921 maxwatts 1225 # 10.0.64.56
@@ -735,24 +735,42 @@ ae0bc3 maxwatts 900 # 10.0.63.87
 956bc8 maxwatts 1025 # 10.0.63.104
 3aaaa4 maxwatts 1025 # 10.0.64.57
 2ba7e1 maxwatts 1125 # 10.0.63.103
-a9f649 maxwatts 1225 # 10.0.63.97
+a9f649 maxwatts 1000 # 10.0.63.97
 df6745 maxwatts 1225 # 10.0.63.102
 1ef57b maxwatts 1225 # 10.0.64.7
-daa5c3 maxwatts 1225 # 10.0.64.38
-19b781 maxwatts 1225 # 10.0.65.9
+daa5c3 maxwatts 1000 # 10.0.64.38
+19b781 maxwatts 1000 # 10.0.65.9
+4f98ad maxwatts 1225 # 10.0.64.43
+19b781 maxwatts 1125 # 10.0.65.9
+a9f649 maxwatts 1125 # 10.0.63.97
+e04134 maxwatts 1025 # 10.0.63.149
+ae0bc3 maxwatts 800 # 10.0.63.87
+956bc8 maxwatts 925 # 10.0.63.104
+daa5c3 maxwatts 1125 # 10.0.64.38
+3aaaa4 maxwatts 925 # 10.0.64.57
+a904d1 maxwatts 1125 # 10.0.64.79
+4f98ad maxwatts 1225 # 10.0.64.43
+ef3cd3 maxwatts 1225 # 10.0.63.85
+b8542a maxwatts 1225 # 10.0.63.111
+616ea8 maxwatts 1225 # 10.0.64.53
+64fe5e maxwatts 1225 # 10.0.65.16
 
-ae0bc3 rebootasic 1563863422 # 10.0.63.87
-956bc8 rebootasic 1563863422 # 10.0.63.104
-3aaaa4 rebootasic 1563863422 # 10.0.64.57
-2ba7e1 rebootasic 1563863422 # 10.0.63.103
-e96240 rebootasic 1563863422 # 10.0.63.125
-e04134 rebootasic 1563863422 # 10.0.63.149
-67b65e rebootasic 1563863422 # 10.0.64.50
-a9f649 rebootasic 1563863422 # 10.0.63.97
-df6745 rebootasic 1563863422 # 10.0.63.102
-1ef57b rebootasic 1563863422 # 10.0.64.7
-daa5c3 rebootasic 1563863422 # 10.0.64.38
-19b781 rebootasic 1563863422 # 10.0.65.9
+
+19b781 rebootasic 1563869717 # 10.0.65.9
+a9f649 rebootasic 1563869717 # 10.0.63.97
+e04134 rebootasic 1563869717 # 10.0.63.149
+ae0bc3 rebootasic 1563869717 # 10.0.63.87
+956bc8 rebootasic 1563869717 # 10.0.63.104
+daa5c3 rebootasic 1563869717 # 10.0.64.38
+3aaaa4 rebootasic 1563869717 # 10.0.64.57
+a904d1 rebootasic 1563869717 # 10.0.64.79
+4f98ad rebootasic 1563869717 # 10.0.64.43
+ef3cd3 rebootasic 1563869717 # 10.0.63.85
+b8542a rebootasic 1563869717 # 10.0.63.111
+19d5b1 rebootasic 1563869717 # 10.0.63.124
+616ea8 rebootasic 1563869717 # 10.0.64.53
+df8e12 rebootasic 1563869717 # 10.0.64.140
+64fe5e rebootasic 1563869717 # 10.0.65.16
 
 
 ## asic password
