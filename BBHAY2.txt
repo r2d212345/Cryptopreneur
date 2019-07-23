@@ -339,24 +339,26 @@ vlan 10.0.65.19-19
 
 #shakti miners(19)
 546631 username1 c40529
+546631 username2 c40529
+546631 username3 c40529
+df6745 username1 c40529
 df6745 username2 c40529
-2ba7e1 username3 c40529
-956bc8 username1 c40529
+df6745 username3 c40529
+89c116 username1 c40529
 89c116 username2 c40529
-540a7e username3 c40529
-b8542a username1 c40529
+89c116 username3 c40529
+3a76d9 username1 c40529
 3a76d9 username2 c40529
-a1aa21 username3 c40529
-b70abf username1 c40529
+3a76d9 username3 c40529
+2aa319 username1 c40529
 2aa319 username2 c40529
-d22096 username3 c40529
-e97d51 username1 c40529
+2aa319 username3 c40529
+02af8f username1 c40529
 02af8f username2 c40529
-6ccd23 username3 c40529
-19d5b1 username1 c40529
+02af8f username3 c40529
+e96240 username1 c40529
 e96240 username2 c40529
-25d9fe username3 c40529
-817b9d username1 c40529
+e96240 username3 c40529
 
 #shawns Miners
 410e10 username1 c40528
