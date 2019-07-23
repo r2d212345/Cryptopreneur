@@ -56,8 +56,7 @@ bef7dd location 0009
 22e69d maxwatts 1225 # 10.0.60.109
 bef7dd maxwatts 1225 # 10.0.60.124
 
-22e69d rebootasic 1562571837 # 10.0.60.109
-bef7dd rebootasic 1562571837 # 10.0.60.124
+3c382a rebootasic 1563889698 # 10.0.60.117 0005
 
 
 ## asic password
