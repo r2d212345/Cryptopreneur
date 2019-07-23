@@ -65,6 +65,8 @@ b20581 location 0012
 0c1071 location 0017
 
 ## tuning
+ea2011 rebootasic 1563889602 # 10.0.59.128 0010
+694c4e rebootasic 1563889602 # 10.0.59.135 0014
 
 ## asic password
 asicpass admin
