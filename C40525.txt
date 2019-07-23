@@ -58,7 +58,7 @@ d699e4 location 0007
 #bad fan overheat
 87d77d maxwatts 1225 # 10.0.60.133
 
-87d77d rebootasic 1562571902 # 10.0.60.133
+5eb282 rebootasic 1563889742 # 10.0.60.136 0004
 
 ## asic password
 asicpass admin
