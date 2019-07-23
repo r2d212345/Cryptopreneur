@@ -120,6 +120,13 @@ c84687 location 0050
 5f2bce location 0052
 
 ## tuning
+# generated on Jul 23 2019 15:58:21 utc
+# reduce maxwatts to counteract facility overheat
+9d7a26 maxwatts 1225 # 10.0.59.142
+364899 maxwatts 1225 # 10.0.59.79
+9d7a26 rebootasic 1563897501 # 10.0.59.142
+364899 rebootasic 1563897501 # 10.0.59.79
+
 #bad fan overheat
 6eb2b2 maxwatts 1000 # 10.0.59.144
 c84687 maxwatts 1225 # 10.0.60.94
