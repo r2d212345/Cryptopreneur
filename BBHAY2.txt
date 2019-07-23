@@ -721,35 +721,38 @@ bf90a6 location BBHAY0398
 
 ## tuning
 #Bad Fan 1st BATCH
-2ba7e1 maxwatts 1225 # 10.0.63.103
 88f593 maxwatts 1225 # 10.0.64.93
-e96240 maxwatts 1225 # 10.0.63.125
-e04134 maxwatts 1225 # 10.0.63.149
-67b65e maxwatts 1125 # 10.0.64.50
-ae0bc3 maxwatts 1000 # 10.0.63.87
-956bc8 maxwatts 1125 # 10.0.63.104
+e96240 maxwatts 1125 # 10.0.63.125
+e04134 maxwatts 1125 # 10.0.63.149
+67b65e maxwatts 1025 # 10.0.64.50
 a904d1 maxwatts 1225 # 10.0.64.79
-3aaaa4 maxwatts 1125 # 10.0.64.57
 ca3c40 maxwatts 1225 # 10.0.63.95
 b96a71 maxwatts 1225 # 10.0.64.39
 0e4921 maxwatts 1225 # 10.0.64.56
 658868 maxwatts 1225 # 10.0.64.98
 4d19c2 maxwatts 1225 # 10.0.65.14
+ae0bc3 maxwatts 900 # 10.0.63.87
+956bc8 maxwatts 1025 # 10.0.63.104
+3aaaa4 maxwatts 1025 # 10.0.64.57
+2ba7e1 maxwatts 1125 # 10.0.63.103
+a9f649 maxwatts 1225 # 10.0.63.97
+df6745 maxwatts 1225 # 10.0.63.102
+1ef57b maxwatts 1225 # 10.0.64.7
+daa5c3 maxwatts 1225 # 10.0.64.38
+19b781 maxwatts 1225 # 10.0.65.9
 
-2ba7e1 rebootasic 1563862155 # 10.0.63.103
-88f593 rebootasic 1563862155 # 10.0.64.93
-e96240 rebootasic 1563862155 # 10.0.63.125
-e04134 rebootasic 1563862155 # 10.0.63.149
-67b65e rebootasic 1563862155 # 10.0.64.50
-ae0bc3 rebootasic 1563862155 # 10.0.63.87
-956bc8 rebootasic 1563862155 # 10.0.63.104
-a904d1 rebootasic 1563862155 # 10.0.64.79
-3aaaa4 rebootasic 1563862155 # 10.0.64.57
-ca3c40 rebootasic 1563862155 # 10.0.63.95
-b96a71 rebootasic 1563862155 # 10.0.64.39
-0e4921 rebootasic 1563862155 # 10.0.64.56
-658868 rebootasic 1563862155 # 10.0.64.98
-4d19c2 rebootasic 1563862155 # 10.0.65.14
+ae0bc3 rebootasic 1563863422 # 10.0.63.87
+956bc8 rebootasic 1563863422 # 10.0.63.104
+3aaaa4 rebootasic 1563863422 # 10.0.64.57
+2ba7e1 rebootasic 1563863422 # 10.0.63.103
+e96240 rebootasic 1563863422 # 10.0.63.125
+e04134 rebootasic 1563863422 # 10.0.63.149
+67b65e rebootasic 1563863422 # 10.0.64.50
+a9f649 rebootasic 1563863422 # 10.0.63.97
+df6745 rebootasic 1563863422 # 10.0.63.102
+1ef57b rebootasic 1563863422 # 10.0.64.7
+daa5c3 rebootasic 1563863422 # 10.0.64.38
+19b781 rebootasic 1563863422 # 10.0.65.9
 
 
 ## asic password
