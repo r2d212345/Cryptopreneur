@@ -604,23 +604,16 @@ f8f07d location BBHAY0282
 ca3c40 location BBHAY0285
 a9f649 location BBHAY0286
 a18065 location BBHAY0287
-546631 location BBHAY0288
-df6745 location BBHAY0289
 2ba7e1 location BBHAY0290
 956bc8 location BBHAY0291
-89c116 location BBHAY0292
 540a7e location BBHAY0293
 b8542a location BBHAY0294
-3a76d9 location BBHAY0295
 a1aa21 location BBHAY0296
 b70abf location BBHAY0297
-2aa319 location BBHAY0298
 d22096 location BBHAY0299
 e97d51 location BBHAY0300
-02af8f location BBHAY0301
 6ccd23 location BBHAY0302
 19d5b1 location BBHAY0303
-e96240 location BBHAY0304
 25d9fe location BBHAY0305
 817b9d location BBHAY0306 #shakti last miner(19total)
 b03771 location BBHAY0307
