@@ -700,29 +700,35 @@ bf90a6 location BBHAY0398
 
 ## tuning
 #Bad Fan 1st BATCH
-19b781 maxwatts 1000
-a9f649 maxwatts 1100
-df8e12 maxwatts 1000
-2ba7e1 maxwatts 1325
-616ea8 maxwatts 1325
-daa5c3 maxwatts 1100
-ae0bc3 maxwatts 1100
-ca1218 maxwatts 1325 # 10.0.64.124
-64fe5e maxwatts 1325 # 10.0.65.16
-3aaaa4 maxwatts 1225 # 10.0.64.57
-956bc8 maxwatts 1225 # 10.0.63.104
-67b65e maxwatts 1225 # 10.0.64.50
-410e10 maxwatts 500 #testing
+2ba7e1 maxwatts 1225 # 10.0.63.103
+88f593 maxwatts 1225 # 10.0.64.93
+e96240 maxwatts 1225 # 10.0.63.125
+e04134 maxwatts 1225 # 10.0.63.149
+67b65e maxwatts 1125 # 10.0.64.50
+ae0bc3 maxwatts 1000 # 10.0.63.87
+956bc8 maxwatts 1125 # 10.0.63.104
+a904d1 maxwatts 1225 # 10.0.64.79
+3aaaa4 maxwatts 1125 # 10.0.64.57
+ca3c40 maxwatts 1225 # 10.0.63.95
+b96a71 maxwatts 1225 # 10.0.64.39
+0e4921 maxwatts 1225 # 10.0.64.56
+658868 maxwatts 1225 # 10.0.64.98
+4d19c2 maxwatts 1225 # 10.0.65.14
 
-e96240 rebootasic 1563857599 # 10.0.63.125
-956bc8 rebootasic 1563857599 # 10.0.63.104
-ae0bc3 rebootasic 1563857599 # 10.0.63.87
-3aaaa4 rebootasic 1563857599 # 10.0.64.57
-a904d1 rebootasic 1563857599 # 10.0.64.79
-67b65e rebootasic 1563857599 # 10.0.64.50
-2ba7e1 rebootasic 1563857599 # 10.0.63.103
-88f593 rebootasic 1563857599 # 10.0.64.93
-e04134 rebootasic 1563857599 # 10.0.63.149
+2ba7e1 rebootasic 1563862155 # 10.0.63.103
+88f593 rebootasic 1563862155 # 10.0.64.93
+e96240 rebootasic 1563862155 # 10.0.63.125
+e04134 rebootasic 1563862155 # 10.0.63.149
+67b65e rebootasic 1563862155 # 10.0.64.50
+ae0bc3 rebootasic 1563862155 # 10.0.63.87
+956bc8 rebootasic 1563862155 # 10.0.63.104
+a904d1 rebootasic 1563862155 # 10.0.64.79
+3aaaa4 rebootasic 1563862155 # 10.0.64.57
+ca3c40 rebootasic 1563862155 # 10.0.63.95
+b96a71 rebootasic 1563862155 # 10.0.64.39
+0e4921 rebootasic 1563862155 # 10.0.64.56
+658868 rebootasic 1563862155 # 10.0.64.98
+4d19c2 rebootasic 1563862155 # 10.0.65.14
 
 
 ## asic password
