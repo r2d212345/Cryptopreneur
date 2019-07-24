@@ -345,6 +345,18 @@ df6745 username1 c40529
 2aa319 username1 c40529
 02af8f username1 c40529
 e96240 username1 c40529
+a30373 username1 c40529
+9fb69c username1 c40529
+0847bb username1 c40529
+c47d1c username1 c40529
+ec4a3b username1 c40529
+b7fc7a username1 c40529
+52e7b5 username1 c40529
+b9e725 username1 c40529
+d01464 username1 c40529
+6befa5 username1 c40529
+b486dc username1 c40529
+daa5c3 username1 c40529
 
 
 #shawns Miners
