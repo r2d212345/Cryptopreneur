@@ -713,6 +713,13 @@ bf90a6 location BBHAY0398
 64fe5e location BBHAY0401
 1f956c location BBHAY0402
 935b5a location BBHAY0403
+546631 location BBHAY0404
+df6745 location BBHAY0405
+89c116 location BBHAY0406
+3a76d9 location BBHAY0407
+2aa319 location BBHAY0408
+02af8f location BBHAY0409
+e96240 location BBHAY0410
 
 ## tuning
 #Bad Fan 1st BATCH
