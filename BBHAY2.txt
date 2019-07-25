@@ -721,6 +721,37 @@ df6745 location BBHAY0405
 e96240 location BBHAY0410
 
 ## tuning
+ae0bc3 maxwatts 800 # 10.0.63.87
+d710e7 maxwatts 1225 # 10.0.63.69
+956bc8 maxwatts 925 # 10.0.63.104
+6ccd23 maxwatts 1225 # 10.0.63.123
+7357bc maxwatts 1225 # 10.0.63.161
+88f593 maxwatts 1125 # 10.0.64.93
+a78199 maxwatts 1225 # 10.0.64.2
+34129a maxwatts 1225 # 10.0.64.83
+3aaaa4 maxwatts 925 # 10.0.64.57
+ca3c40 maxwatts 1125 # 10.0.63.95
+a1aa21 maxwatts 1225 # 10.0.63.114
+e97d51 maxwatts 1225 # 10.0.63.120
+df8e12 maxwatts 1225 # 10.0.64.140
+ac598c maxwatts 1225 # 10.0.64.143
+af7328 maxwatts 1225 # 10.0.64.160
+ae0bc3 rebootasic 1564045199 # 10.0.63.87
+d710e7 rebootasic 1564045199 # 10.0.63.69
+956bc8 rebootasic 1564045199 # 10.0.63.104
+6ccd23 rebootasic 1564045199 # 10.0.63.123
+7357bc rebootasic 1564045199 # 10.0.63.161
+88f593 rebootasic 1564045199 # 10.0.64.93
+a78199 rebootasic 1564045199 # 10.0.64.2
+34129a rebootasic 1564045199 # 10.0.64.83
+3aaaa4 rebootasic 1564045199 # 10.0.64.57
+ca3c40 rebootasic 1564045199 # 10.0.63.95
+a1aa21 rebootasic 1564045199 # 10.0.63.114
+e97d51 rebootasic 1564045199 # 10.0.63.120
+df8e12 rebootasic 1564045199 # 10.0.64.140
+ac598c rebootasic 1564045199 # 10.0.64.143
+af7328 rebootasic 1564045199 # 10.0.64.160
+
 #Bad Fan 1st BATCH
 88f593 maxwatts 1225 # 10.0.64.93
 e96240 maxwatts 1125 # 10.0.63.125
